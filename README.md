@@ -6,11 +6,11 @@
 
 <!-- please enter link to site preview here -->
 
-[Project live site]()
+[Project live site](https://estorelabs.github.io/RC---220908-LO-366-Matrix-Instacure-Spray-GENERIC/)
 
 ## PROJECT PREVIEW
 
-![Design preview for the project](https://estorelabs.github.io/RC---220908-LO-366-Matrix-Instacure-Spray-GENERIC/)
+![Design preview for the project]()
 
 ### LINKS TO DESIGNS (in .xd or .psd)
 
